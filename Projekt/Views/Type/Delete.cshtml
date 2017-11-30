@@ -1,4 +1,4 @@
-﻿@model DotNetAppSqlDb.Models.Todo
+﻿@model Projekt.Models.Type
 
 @{
     ViewBag.Title = "Delete";
@@ -12,19 +12,11 @@
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.Description)
+            @Html.DisplayNameFor(model => model.TypeId)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.Description)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.CreatedDate)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.CreatedDate)
+            @Html.DisplayFor(model => model.TypeName)
         </dd>
 
     </dl>

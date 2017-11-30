@@ -1,25 +1,40 @@
-﻿
+﻿@model IEnumerable<Projekt.Models.Type>
+
+
 @{
-    ViewBag.Title = "Tables Index";
+    ViewBag.Title = "Type Index";
 }
 
-<h2>Tables</h2>
+<h2>Types</h2>
 
-<div class="form-inline add-set">
-    <div class="form-group">
-        <label class="control-label">Tables</label>
-        @*@Html.DropDownList("TableName", (IEnumerable<SelectListItem>)ViewBag.Tables, null, new { @class = "form-control" })
-        
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TypeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TypeName)
+        </th>
 
-        <input type="button" value="POKAŻ ZAWARTOŚC TABELI" 
-               onclick="location.href='@Url.Action("BookList", "Book")'" />*@
+    </tr>
 
-        @using (Html.BeginForm("ShowList", "Book", FormMethod.Post))
-        {
-            @Html.DropDownList("TableName", (IEnumerable<SelectListItem>)ViewBag.Tables, null, new { @class = "form-control" })
-            <input type="submit" value="POKAŻ ZAWARTOŚC TABELI" />
-        }
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.TypeId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.TypeId })
+            </td>
+        </tr>
+    }
 
-    </div>
-</div>        
-
+</table>
