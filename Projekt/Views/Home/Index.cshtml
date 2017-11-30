@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Tables Index";
+}
+
+<h2>Tables</h2>
+
+<div class="form-inline add-set">
+    <div class="form-group">
+        <label class="control-label">Tables</label>
+        @*@Html.DropDownList("TableName", (IEnumerable<SelectListItem>)ViewBag.Tables, null, new { @class = "form-control" })
+        
+
+        <input type="button" value="POKAŻ ZAWARTOŚC TABELI" 
+               onclick="location.href='@Url.Action("BookList", "Book")'" />*@
+
+        @using (Html.BeginForm("ShowList", "Home", FormMethod.Post))
+        {
+            @Html.DropDownList("TableName", (IEnumerable<SelectListItem>)ViewBag.Tables, null, new { @class = "form-control" })
+            <input type="submit" value="POKAŻ ZAWARTOŚC TABELI" />
+        }
+
+    </div>
+</div>        
+
