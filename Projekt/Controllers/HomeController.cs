@@ -19,11 +19,21 @@ namespace Projekt.Controllers
 
         public ActionResult Index()
         {
-            var dbSetProperties = db.GetDbSetProperties();
-            List<String> dbSets = dbSetProperties.Select(x => x.Name).ToList();
+            return View();
+        }
 
-            ViewBag.Tables = new SelectList(dbSets, "TableName");
-            //ViewBag.tables;
+
+        [Authorize]
+        public ActionResult Lists()
+        {
+            if (User.Identity.IsAuthenticated)
+            {
+                var dbSetProperties = db.GetDbSetProperties();
+                List<String> dbSets = dbSetProperties.Select(x => x.Name).ToList();
+
+                ViewBag.Tables = new SelectList(dbSets, "TableName");
+            }
+
             return View();
         }
 
@@ -45,18 +55,6 @@ namespace Projekt.Controllers
             return RedirectToAction("Index");
         }
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
 
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
-        }
     }
 }

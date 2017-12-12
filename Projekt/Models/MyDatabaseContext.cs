@@ -24,7 +24,7 @@ namespace DotNetAppSqlDb.Models
 
         public MyDatabaseContext() : base("name=MyDatabase")
         {
-
+            Database.SetInitializer<MyDatabaseContext>(new CreateDatabaseIfNotExists<MyDatabaseContext>());
         }
 
 
@@ -52,6 +52,7 @@ namespace DotNetAppSqlDb.Models
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            Database.SetInitializer<MyDatabaseContext>(null);
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Projekt.Models.Book>().ToTable("Books");

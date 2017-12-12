@@ -12,6 +12,7 @@ using Projekt.Models;
 
 namespace DotNetAppSqlDb.Controllers
 {
+    [Authorize]
     public class BookController : Controller
     {
         private MyDatabaseContext db;
@@ -25,7 +26,7 @@ namespace DotNetAppSqlDb.Controllers
         {
             Trace.WriteLine("GET /Book/Index");
 
-            var books = db.Books.Include(c => c.Type).AsNoTracking();
+            var books = db.Books.Include(c => c.Type);
 
             return View(books);
         }
@@ -48,6 +49,12 @@ namespace DotNetAppSqlDb.Controllers
             Trace.WriteLine("POST /Book/CreateBook");
             if (ModelState.IsValid)
             {
+                if (!db.Types.Any(x=>x.TypeId == book.TypeId))
+                {
+                    ModelState.AddModelError("TypeId", "Haslo nieprawidlowe !");
+                    return View();
+                }
+
                 db.Books.Add(book);
                 db.SaveChanges();
                 return RedirectToAction("Index");

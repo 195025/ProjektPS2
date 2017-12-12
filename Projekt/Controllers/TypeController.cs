@@ -12,6 +12,7 @@ using Projekt.Models;
 
 namespace DotNetAppSqlDb.Controllers
 {
+    [Authorize]
     public class TypeController : Controller
     {
         private MyDatabaseContext db;

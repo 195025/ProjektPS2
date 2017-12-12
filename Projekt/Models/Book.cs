@@ -14,10 +14,13 @@ namespace Projekt.Models
         [HiddenInput(DisplayValue = false)]
         [Key]
         public int BookId { get; set; }
+        [Required]
         public String Title { get; set; }
+        [Required]
         public String Description { get; set; }
+        [Required]
         public String Author { get; set; }
-
+        [Required]
         public int TypeId { get; set; }
 
         public Type Type { get; set; }

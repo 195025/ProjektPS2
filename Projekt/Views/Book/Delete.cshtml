@@ -32,8 +32,30 @@
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">
-            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <input type="submit" id="delete" value="Delete" class="btn btn-default" /> |
             @Html.ActionLink("Back to List", "Index")
         </div>
     }
 </div>
+
+
+@section scripts {
+    <script src="~/Scripts/jquery.signalR-2.2.2.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script>
+        $(function () {
+            // Reference the auto-generated proxy for the hub.
+            var chat = $.connection.myHub;
+
+            
+
+            // Start the connection.
+            $.connection.hub.start().done(function () {
+                $('#delete').click(function () {
+                    // Call the Send method on the hub.
+                    chat.server.send("name", "message");
+                });
+            });
+        });
+    </script>
+}

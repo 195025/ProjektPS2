@@ -49,3 +49,33 @@
     }
 
 </table>
+
+
+
+@section scripts {
+    <script src="~/Scripts/jquery.signalR-2.2.2.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script>
+        $(function () {
+            // Reference the auto-generated proxy for the hub.
+            var chat = $.connection.myHub;
+
+            // Create a function that the hub can call back to display messages.
+            chat.client.RefreshPage = function (name, message) {
+                console.log(name, message);
+
+                setTimeout(function () {
+                    location.reload()
+                }, 3000);
+            };
+
+            // Start the connection.
+            $.connection.hub.start().done(function () {
+                $('#create').click(function () {
+                    // Call the Send method on the hub.
+                    chat.server.send("name", "message");
+                });
+            });
+        });
+    </script>
+}
