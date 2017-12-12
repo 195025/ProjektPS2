@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Projekt.Models.Book>
+
+
+@{
+    ViewBag.Title = "Books Index";
+}
+
+<h2>Books</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Type)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <th>
+                @Html.DisplayFor(modelItem => item.Author)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Type.TypeName)
+            </th>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.BookId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.BookId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+@section scripts {
+    <script src="~/Scripts/jquery.signalR-2.2.2.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script>
+        $(function () {
+            // Reference the auto-generated proxy for the hub.
+            var chat = $.connection.myHub;
+
+            // Create a function that the hub can call back to display messages.
+            chat.client.RefreshPage = function (name, message) {
+                console.log(name, message);
+
+                setTimeout(function () {
+                    location.reload()
+                }, 3000);
+            };
+
+            // Start the connection.
+            $.connection.hub.start().done(function () {
+                $('#create').click(function () {
+                    // Call the Send method on the hub.
+                    chat.server.send("name", "message");
+                });
+            });
+        });
+    </script>
+}

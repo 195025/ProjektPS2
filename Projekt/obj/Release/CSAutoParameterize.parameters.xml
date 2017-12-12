@@ -1,2 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters />
+<parameters>
+  <parameter name="MyDatabase-Web.config Connection String" description="MyDatabase Parametry połączenia używane w pliku web.config przez aplikację w celu uzyskiwania dostępu do bazy danych." defaultValue="Server=tcp:myprojectsqlserver.database.windows.net,1433;Initial Catalog=MyDatabase;Persist Security Info=False;User ID=rootson;Password=P@$$w0rd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\studia\\STUDIA\\Semestr\ VII\ dotarlem\\Wajman\\ProjektPS2\ Ostatecznie\\ProjektPS2\\Projekt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyDatabase']/@connectionString" />
+  </parameter>
+</parameters>

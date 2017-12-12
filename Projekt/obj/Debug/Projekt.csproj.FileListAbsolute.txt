@@ -54,3 +54,714 @@ C:\Users\Mixis\source\repos\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
 C:\Users\Mixis\source\repos\Projekt\Projekt\obj\Debug\Projekt.Migrations.TypeTable.resources
 C:\Users\Mixis\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
 C:\Users\Mixis\source\repos\Projekt\Projekt\obj\Debug\Projekt.Migrations.Changes.resources
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\ApplicationInsights.config
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Projekt.dll.config
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Projekt.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Projekt.pdb
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Antlr3.Runtime.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\EntityFramework.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\EntityFramework.SqlServer.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.DependencyCollector.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.Web.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.WindowsServer.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.ApplicationInsights.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Google.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Newtonsoft.Json.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Owin.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Helpers.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Mvc.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Optimization.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Razor.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.WebPages.Deployment.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.WebPages.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.WebPages.Razor.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\WebGrease.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\EntityFramework.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\EntityFramework.SqlServer.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Google.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Helpers.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Mvc.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Optimization.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.Razor.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.WebPages.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.WebPages.Deployment.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Web.WebPages.Razor.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Antlr3.Runtime.pdb
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Newtonsoft.Json.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.ApplicationInsights.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.DependencyCollector.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.WindowsServer.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AI.Web.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\pl\System.Web.Helpers.resources.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\pl\System.Web.Mvc.resources.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\pl\System.Web.Optimization.resources.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\pl\System.Web.Razor.resources.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.resources.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.Deployment.resources.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.Razor.resources.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\obj\Debug\Projekt.Migrations.TypeTable.resources
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\obj\Debug\Projekt.Migrations.Changes.resources
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\obj\Debug\Projekt.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\obj\Debug\Projekt.pdb
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Win32.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\netstandard.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.AppContext.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Collections.Concurrent.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Collections.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Collections.NonGeneric.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Collections.Specialized.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.ComponentModel.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.ComponentModel.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.ComponentModel.TypeConverter.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Console.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Data.Common.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.Contracts.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.Debug.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.Process.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.StackTrace.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.Tools.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.TraceSource.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Diagnostics.Tracing.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Drawing.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Dynamic.Runtime.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Globalization.Calendars.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Globalization.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Globalization.Extensions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.Compression.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.Compression.ZipFile.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.FileSystem.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.FileSystem.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.FileSystem.Watcher.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.IsolatedStorage.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.MemoryMappedFiles.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.Pipes.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Linq.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Linq.Expressions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Linq.Parallel.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Linq.Queryable.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.Http.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.NameResolution.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.NetworkInformation.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.Ping.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.Requests.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.Security.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.Sockets.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.WebHeaderCollection.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.WebSockets.Client.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Net.WebSockets.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.ObjectModel.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Reflection.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Reflection.Extensions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Reflection.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Resources.Reader.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Resources.ResourceManager.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Resources.Writer.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.Extensions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.Handles.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.InteropServices.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.Numerics.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Formatters.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Json.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Xml.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Claims.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Cryptography.Algorithms.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Cryptography.Csp.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Cryptography.Encoding.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Cryptography.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Principal.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.SecureString.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Text.Encoding.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Text.Encoding.Extensions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Text.RegularExpressions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Threading.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Threading.Overlapped.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Threading.Tasks.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Threading.Tasks.Parallel.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Threading.Thread.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Threading.ThreadPool.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Threading.Timer.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.ValueTuple.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Xml.ReaderWriter.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Xml.XDocument.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Xml.XmlDocument.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Xml.XmlSerializer.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Xml.XPath.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Xml.XPath.XDocument.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Google.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Options.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Primitives.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Net.Http.Headers.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Win32.Registry.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Buffers.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.AccessControl.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Cryptography.Xml.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Security.Principal.Windows.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Text.Encodings.Web.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Google.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.OAuth.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Options.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.Primitives.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.Net.Http.Headers.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Buffers.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Text.Encodings.Web.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebSockets.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Numerics.Vectors.dll
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebSockets.xml
+E:\Workspace\Visual workspace\ProjektPS2\Projekt\bin\System.Numerics.Vectors.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\ApplicationInsights.config
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Projekt.dll.config
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Projekt.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Projekt.pdb
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Win32.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\netstandard.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.AppContext.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Collections.Concurrent.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Collections.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Collections.NonGeneric.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Collections.Specialized.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.ComponentModel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.ComponentModel.EventBasedAsync.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.ComponentModel.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.ComponentModel.TypeConverter.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Console.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Data.Common.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.Contracts.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.Debug.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.FileVersionInfo.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.Process.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.StackTrace.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.Tools.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.TraceSource.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Diagnostics.Tracing.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Drawing.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Dynamic.Runtime.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Globalization.Calendars.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Globalization.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Globalization.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.Compression.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.Compression.ZipFile.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.FileSystem.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.FileSystem.DriveInfo.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.FileSystem.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.FileSystem.Watcher.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.IsolatedStorage.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.MemoryMappedFiles.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.Pipes.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.IO.UnmanagedMemoryStream.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Linq.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Linq.Expressions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Linq.Parallel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Linq.Queryable.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.Http.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.NameResolution.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.NetworkInformation.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.Ping.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.Requests.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.Security.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.Sockets.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.WebHeaderCollection.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.WebSockets.Client.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Net.WebSockets.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.ObjectModel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Reflection.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Reflection.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Reflection.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Resources.Reader.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Resources.ResourceManager.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Resources.Writer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.Handles.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.InteropServices.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.Numerics.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Formatters.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Json.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Xml.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Claims.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Cryptography.Algorithms.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Cryptography.Csp.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Cryptography.Encoding.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Cryptography.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Cryptography.X509Certificates.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Principal.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.SecureString.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Text.Encoding.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Text.Encoding.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Text.RegularExpressions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Threading.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Threading.Overlapped.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Threading.Tasks.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Threading.Tasks.Parallel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Threading.Thread.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Threading.ThreadPool.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Threading.Timer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.ValueTuple.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Xml.ReaderWriter.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Xml.XDocument.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Xml.XmlDocument.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Xml.XmlSerializer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Xml.XPath.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Xml.XPath.XDocument.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Antlr3.Runtime.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\EntityFramework.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\EntityFramework.SqlServer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.Web.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.WindowsServer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.ApplicationInsights.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Google.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebSockets.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.ObjectPool.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Options.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.WebEncoders.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Net.Http.Headers.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Google.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Web.Infrastructure.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Win32.Registry.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Newtonsoft.Json.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Owin.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Buffers.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Numerics.Vectors.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.AccessControl.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Cryptography.Xml.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Security.Principal.Windows.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Text.Encodings.Web.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Helpers.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Mvc.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Optimization.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Razor.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.WebPages.Deployment.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.WebPages.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.WebPages.Razor.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\WebGrease.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\EntityFramework.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\EntityFramework.SqlServer.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Google.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.OAuth.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebSockets.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.ObjectPool.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Options.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.Primitives.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Extensions.WebEncoders.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Net.Http.Headers.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Google.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Newtonsoft.Json.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Buffers.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Numerics.Vectors.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Text.Encodings.Web.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Helpers.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Mvc.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Optimization.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.Razor.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.WebPages.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.WebPages.Deployment.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\System.Web.WebPages.Razor.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Antlr3.Runtime.pdb
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.ApplicationInsights.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.WindowsServer.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\Microsoft.AI.Web.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\pl\System.Web.Helpers.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\pl\System.Web.Mvc.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\pl\System.Web.Optimization.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\pl\System.Web.Razor.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\obj\Debug\Projekt.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\ProjektPS2\Projekt\obj\Debug\Projekt.pdb
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\ApplicationInsights.config
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Projekt.dll.config
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Projekt.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Projekt.pdb
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Win32.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\netstandard.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.AppContext.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Collections.Concurrent.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Collections.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Collections.NonGeneric.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Collections.Specialized.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.ComponentModel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.ComponentModel.EventBasedAsync.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.ComponentModel.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.ComponentModel.TypeConverter.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Console.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Data.Common.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.Contracts.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.Debug.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.FileVersionInfo.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.Process.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.StackTrace.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.Tools.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.TraceSource.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Diagnostics.Tracing.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Drawing.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Dynamic.Runtime.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Globalization.Calendars.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Globalization.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Globalization.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.Compression.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.Compression.ZipFile.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.FileSystem.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.FileSystem.DriveInfo.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.FileSystem.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.FileSystem.Watcher.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.IsolatedStorage.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.MemoryMappedFiles.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.Pipes.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.IO.UnmanagedMemoryStream.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Linq.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Linq.Expressions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Linq.Parallel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Linq.Queryable.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.Http.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.NameResolution.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.NetworkInformation.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.Ping.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.Requests.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.Security.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.Sockets.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.WebHeaderCollection.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.WebSockets.Client.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Net.WebSockets.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.ObjectModel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Reflection.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Reflection.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Reflection.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Resources.Reader.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Resources.ResourceManager.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Resources.Writer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.Handles.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.InteropServices.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.Numerics.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Formatters.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Json.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.Serialization.Xml.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Claims.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Cryptography.Algorithms.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Cryptography.Csp.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Cryptography.Encoding.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Cryptography.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Cryptography.X509Certificates.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Principal.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.SecureString.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Text.Encoding.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Text.Encoding.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Text.RegularExpressions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Threading.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Threading.Overlapped.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Threading.Tasks.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Threading.Tasks.Parallel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Threading.Thread.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Threading.ThreadPool.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Threading.Timer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.ValueTuple.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Xml.ReaderWriter.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Xml.XDocument.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Xml.XmlDocument.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Xml.XmlSerializer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Xml.XPath.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Xml.XPath.XDocument.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Antlr3.Runtime.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\EntityFramework.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\EntityFramework.SqlServer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.Web.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.WindowsServer.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.ApplicationInsights.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Google.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebSockets.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.ObjectPool.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Options.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Primitives.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.WebEncoders.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Net.Http.Headers.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Google.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Web.Infrastructure.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Win32.Registry.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Newtonsoft.Json.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Owin.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Buffers.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Numerics.Vectors.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.AccessControl.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Cryptography.Xml.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Security.Principal.Windows.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Text.Encodings.Web.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Helpers.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Mvc.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Optimization.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Razor.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.WebPages.Deployment.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.WebPages.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.WebPages.Razor.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\WebGrease.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\EntityFramework.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\EntityFramework.SqlServer.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.Google.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Authentication.OAuth.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebSockets.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.ObjectPool.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Options.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.Primitives.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Extensions.WebEncoders.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Net.Http.Headers.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.Google.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Newtonsoft.Json.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Buffers.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Numerics.Vectors.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Text.Encodings.Web.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Helpers.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Mvc.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Optimization.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.Razor.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.WebPages.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.WebPages.Deployment.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\System.Web.WebPages.Razor.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Antlr3.Runtime.pdb
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.ApplicationInsights.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.WindowsServer.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\Microsoft.AI.Web.xml
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\pl\System.Web.Helpers.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\pl\System.Web.Mvc.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\pl\System.Web.Optimization.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\pl\System.Web.Razor.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\obj\Debug\Projekt.dll
+D:\studia\STUDIA\Semestr VII dotarlem\Wajman\ProjektPS2 Ostatecznie\git\ProjektPS2\Projekt\obj\Debug\Projekt.pdb
